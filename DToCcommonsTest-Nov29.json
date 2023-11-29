@@ -13,7 +13,9 @@
     "inputs": [
         "https://raw.githubusercontent.com/BucknellDSC/suzette/master/Edition/chapter_ch001.xml",
         "https://raw.githubusercontent.com/BucknellDSC/suzette/master/Edition/chapter_ch002.xml",
-        "https://raw.githubusercontent.com/BucknellDSC/suzette/master/Edition/chapter_ch003.xml"
+        "https://raw.githubusercontent.com/BucknellDSC/suzette/master/Edition/chapter_ch003.xml",
+        "https://raw.githubusercontent.com/BucknellDSC/suzette/master/Edition/chapter_ch004.xml",
+        "https://raw.githubusercontent.com/BucknellDSC/suzette/master/Edition/chapter_ch005.xml"
     ],
     "curation": {
         "markup": [
