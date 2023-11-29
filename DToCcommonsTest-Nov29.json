@@ -1,0 +1,31 @@
+{
+    "editionTitle": "Suzette-Nov29test",
+    "editionSubtitle": "",
+    "ignoreNamespace": true,
+    "documents": "//div[@type='chapitre']",
+    "documentContent": "",
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/BucknellDSC/suzette/master/Edition/chapter_ch001.xml",
+        "https://raw.githubusercontent.com/BucknellDSC/suzette/master/Edition/chapter_ch002.xml",
+        "https://raw.githubusercontent.com/BucknellDSC/suzette/master/Edition/chapter_ch003.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//div",
+                "label": "div"
+            }
+        ],
+        "toc": [
+            "653766ee4792c26514e410823772793e8ab5d4f5dc96cf6b203bd6479e1ae49e",
+            "96bceb8191578baeee0127ab7156a6ce248ddd99f5608bc2c1021de67e9eb9c3",
+            "93bc23104a96b0375aa6356f2cb8028d1da8133f9ec906c8037a96ab02413d9c"
+        ]
+    }
+}
